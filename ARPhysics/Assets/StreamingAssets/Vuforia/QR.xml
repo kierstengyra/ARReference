@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QR6" size="1.000000 1.000000" />
+    <ImageTarget name="QR5" size="1.000000 1.000000" />
+    <ImageTarget name="QR4" size="1.000000 1.000000" />
+    <ImageTarget name="QR3" size="1.000000 1.000000" />
+    <ImageTarget name="QR2" size="1.000000 1.000000" />
+    <ImageTarget name="QR1" size="1.000000 1.000000">
+		<VirtualButton name="VB1" rectangle="-45.28 -53.52 -12.35 -65.87" enabled="true" sensitivity="HIGH"/>
+	</ImageTarget>
+  </Tracking>
+</QCARConfig>
